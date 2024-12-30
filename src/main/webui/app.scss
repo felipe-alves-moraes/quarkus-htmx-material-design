@@ -1,0 +1,14 @@
+@use "material-components-web";
+
+.chip-set-area {
+  display: flex;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.mdc-chip-set {
+  margin-left: 20px;
+}
+
+.mdc-icon-button {
+  margin-left: 12px;
+}
